@@ -1,0 +1,38 @@
+
+.clickable{
+    cursor: pointer;
+    padding:5px
+}
+
+.selected{
+    background-color: rgba(223, 215, 215, 0.89);
+    color:rgba(0, 0, 0, 0.39);
+    padding:5px;
+    margin-top:2px;
+    border-bottom:1px solid black
+}
+
+.preview{
+    display:flex;
+    justify-content:space-between
+}
+.preview a{
+    
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.element-container{
+    padding:5px;
+    margin-top:5px;
+    border-bottom:1px solid black
+}
+
+.preview h4{
+    padding:5px
+}
+
+

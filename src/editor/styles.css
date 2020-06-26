@@ -1,0 +1,25 @@
+.editor-container{
+    width:100%;
+    height: 100%;
+    box-sizing: border-box;
+  
+}
+
+
+.btn{
+    width:15%;
+    padding:0;
+    height:25px;
+    cursor: pointer;
+    background-color: #29487d;
+    color:white
+}
+
+
+.btn:hover{
+    background-color: #88a2ce;
+}
+
+.editor{
+    position: static;
+}
